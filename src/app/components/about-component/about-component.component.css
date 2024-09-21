@@ -1,0 +1,32 @@
+/* about.component.css */
+h1, h2 {
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  .container {
+    max-width: 900px;
+  }
+  
+  a.btn {
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  .list-group-item {
+    background-color: #f8f9fa;
+  }
+  
+  #profile-summary p, #projects p {
+    line-height: 1.6;
+  }
+  
+  section {
+    padding: 20px 0;
+    border-bottom: 1px solid #e9ecef;
+  }
+  
