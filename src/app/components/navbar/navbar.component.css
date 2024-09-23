@@ -1,6 +1,7 @@
 .navbar {
     padding: 15px;
-    background-color: #fff;
+    background-color: transparent;
+    /* background: linear-gradient(150deg, #bdc3d4 0%, #111827 100%); */
   }
   .navbar .navbar-brand {
     font-weight: bold;
