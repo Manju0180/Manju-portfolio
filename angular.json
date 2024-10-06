@@ -23,7 +23,9 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/manju-portfolio",
+            "outputPath": "dist",
+            "baseHref": "/Manju-portfolio/",
+            "deployUrl": "/Manju-portfolio/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
